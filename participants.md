@@ -252,3 +252,7 @@ A portfolio page is one of the most important projects to complete for me since 
 - [Project Repo](https://github.com/Cambro320/Cambro320.github.io)
 - [Live Demo](https://www.joryiansmith.com/)
 - [Linkdin](https://www.linkedin.com/in/joryiansmith/)
+
+## chiyo#9689 - A Dog Engineer Portofolio Page
+
+This is my first coding challenge. My purpose for this project is to make something this month. I made this because I've wanted to make a moving page. When clicked icon in the left and right on the top area, the scenary changes. When clicked icon on the picture, the picture became large and there is a message in the bottom left. 
